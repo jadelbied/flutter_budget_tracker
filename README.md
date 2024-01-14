@@ -1,4 +1,4 @@
-# budgetwis
+# BudgetWise
 
 A new Flutter project.
 
