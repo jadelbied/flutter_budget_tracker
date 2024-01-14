@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597252368378",
+    "project_id": "budegetwis",
+    "storage_bucket": "budegetwis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597252368378:android:c9e87fbe022d048e38e643",
+        "android_client_info": {
+          "package_name": "com.example.budgetwis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCF9SkPLL_sdLMd3NgGd7U7Cld7X1aABY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
